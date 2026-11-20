@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 |
+| **1** | 1 | 0 | 0 |
 
 ---
 
@@ -19,4 +19,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | # | Problem | Difficulty | Solutions | LeetCode |
 | :---: | :--- | :---: | :---: | :---: |
-
+| 0001 | [Two Sum](./TypeScript/0001-two-sum.ts) | Easy | 2 Solutions | [LeetCode](https://leetcode.com/problems/two-sum/) |
