@@ -17,7 +17,7 @@ function twoSum(nums: number[], target: number): number[] {
 
 // Solution 2
 // Time Complexity: O(n^2)
-function twoSum(nums: number[], target: number): number[] {
+function twoSum2(nums: number[], target: number): number[] {
   for (let i = 0; i < nums.length; i++) {
     let targetIndex = nums.findIndex((el,index) => (el === target- nums[i]! && i!=index));
     if (targetIndex!==-1) 
