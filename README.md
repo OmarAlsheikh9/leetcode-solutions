@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **5** | 1 | 3 | 1 |
+| **6** | 1 | 4 | 1 |
 
 ---
 
@@ -24,3 +24,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 | 0003 | [Longest Substring Without Repeating Characters](./TypeScript/0003-longest-substring-without-repeating-characters.ts) | Medium | 3 Solutions | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 0004 | [Median of Two Sorted Arrays](./TypeScript/0004-median-of-two-sorted-arrays.ts) | Hard | 1 Solution | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
 | 0005 | [Longest Palindromic Substring](./TypeScript/0005-longest-palindromic-substring.ts) | Medium | 2 Solutions | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) |
+| 0006 | [Zigzag Conversion](./TypeScript/0006-zigzag-conversion.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) |
