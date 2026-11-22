@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **3** | 1 | 2 | 0 |
+| **4** | 1 | 2 | 1 |
 
 ---
 
@@ -22,3 +22,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 | 0001 | [Two Sum](./TypeScript/0001-two-sum.ts) | Easy | 2 Solutions | [LeetCode](https://leetcode.com/problems/two-sum/) |
 | 0002 | [Add Two Numbers](./TypeScript/0002-add-two-numbers.ts) | Medium | 2 Solutions | [LeetCode](https://leetcode.com/problems/add-two-numbers/) |
 | 0003 | [Longest Substring Without Repeating Characters](./TypeScript/0003-longest-substring-without-repeating-characters.ts) | Medium | 3 Solutions | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 0004 | [Median of Two Sorted Arrays](./TypeScript/0004-median-of-two-sorted-arrays.ts) | Hard | 1 Solution | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
