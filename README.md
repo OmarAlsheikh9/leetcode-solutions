@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **8** | 2 | 5 | 1 |
+| **9** | 2 | 6 | 1 |
 
 ---
 
@@ -27,3 +27,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 | 0006 | [Zigzag Conversion](./TypeScript/0006-zigzag-conversion.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) |
 | 0007 | [Reverse Integer](./TypeScript/0007-reverse-integer.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/reverse-integer/) |
 | 0009 | [Palindrome Number](./TypeScript/0009-palindrome-number.ts) | Easy | 1 Solution | [LeetCode](https://leetcode.com/problems/palindrome-number/) |
+| 0011 | [Container With Most Water](./TypeScript/0011-container-with-most-water.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/container-with-most-water/) |
