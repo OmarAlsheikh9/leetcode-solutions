@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **9** | 2 | 6 | 1 |
+| **10** | 3 | 6 | 1 |
 
 ---
 
@@ -28,3 +28,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 | 0007 | [Reverse Integer](./TypeScript/0007-reverse-integer.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/reverse-integer/) |
 | 0009 | [Palindrome Number](./TypeScript/0009-palindrome-number.ts) | Easy | 1 Solution | [LeetCode](https://leetcode.com/problems/palindrome-number/) |
 | 0011 | [Container With Most Water](./TypeScript/0011-container-with-most-water.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/container-with-most-water/) |
+| 0013 | [Roman to Integer](./TypeScript/0013-roman-to-integer.ts) | Easy | 1 Solution | [LeetCode](https://leetcode.com/problems/roman-to-integer/) |
