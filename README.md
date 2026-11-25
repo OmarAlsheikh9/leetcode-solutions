@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **12** | 4 | 7 | 1 |
+| **13** | 4 | 8 | 1 |
 
 ---
 
@@ -31,3 +31,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 | 0013 | [Roman to Integer](./TypeScript/0013-roman-to-integer.ts) | Easy | 1 Solution | [LeetCode](https://leetcode.com/problems/roman-to-integer/) |
 | 0014 | [Longest Common Prefix](./TypeScript/0014-longest-common-prefix.ts) | Easy | 1 Solution | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |
 | 0015 | [3Sum](./TypeScript/0015-3sum.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/3sum/) |
+| 0018 | [4Sum](./TypeScript/0018-4sum.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/4sum/) |
