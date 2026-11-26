@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **14** | 4 | 9 | 1 |
+| **15** | 5 | 9 | 1 |
 
 ---
 
@@ -33,3 +33,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 | 0015 | [3Sum](./TypeScript/0015-3sum.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/3sum/) |
 | 0018 | [4Sum](./TypeScript/0018-4sum.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/4sum/) |
 | 0019 | [Remove Nth Node From End of List](./TypeScript/0019-remove-nth-node-from-end-of-list.ts) | Medium | 3 Solutions | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
+| 0020 | [Valid Parentheses](./TypeScript/0020-valid-parentheses.ts) | Easy | 1 Solution | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
