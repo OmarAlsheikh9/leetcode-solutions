@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **15** | 5 | 9 | 1 |
+| **16** | 6 | 9 | 1 |
 
 ---
 
@@ -34,3 +34,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 | 0018 | [4Sum](./TypeScript/0018-4sum.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/4sum/) |
 | 0019 | [Remove Nth Node From End of List](./TypeScript/0019-remove-nth-node-from-end-of-list.ts) | Medium | 3 Solutions | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 0020 | [Valid Parentheses](./TypeScript/0020-valid-parentheses.ts) | Easy | 1 Solution | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
+| 0021 | [Merge Two Sorted Lists](./TypeScript/0021-merge-two-sorted-lists.ts) | Easy | 2 Solutions | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
