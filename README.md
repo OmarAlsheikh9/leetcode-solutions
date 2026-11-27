@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **17** | 6 | 10 | 1 |
+| **18** | 6 | 10 | 2 |
 
 ---
 
@@ -36,3 +36,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 | 0020 | [Valid Parentheses](./TypeScript/0020-valid-parentheses.ts) | Easy | 1 Solution | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
 | 0021 | [Merge Two Sorted Lists](./TypeScript/0021-merge-two-sorted-lists.ts) | Easy | 2 Solutions | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 0022 | [Generate Parentheses](./TypeScript/0022-generate-parentheses.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/generate-parentheses/) |
+| 0023 | [Merge k Sorted Lists](./TypeScript/0023-merge-k-sorted-lists.ts) | Hard | 1 Solution | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) |
