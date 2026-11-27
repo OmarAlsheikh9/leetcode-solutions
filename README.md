@@ -11,7 +11,7 @@ Personal repository of LeetCode problems solved in TypeScript.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **18** | 6 | 10 | 2 |
+| **19** | 6 | 10 | 3 |
 
 ---
 
@@ -37,3 +37,4 @@ Personal repository of LeetCode problems solved in TypeScript.
 | 0021 | [Merge Two Sorted Lists](./TypeScript/0021-merge-two-sorted-lists.ts) | Easy | 2 Solutions | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 0022 | [Generate Parentheses](./TypeScript/0022-generate-parentheses.ts) | Medium | 1 Solution | [LeetCode](https://leetcode.com/problems/generate-parentheses/) |
 | 0023 | [Merge k Sorted Lists](./TypeScript/0023-merge-k-sorted-lists.ts) | Hard | 1 Solution | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) |
+| 0025 | [Reverse Nodes in k-Group](./TypeScript/0025-reverse-nodes-in-k-group.ts) | Hard | 1 Solution | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) |
